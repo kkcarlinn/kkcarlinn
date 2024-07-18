@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Skip and I'm a java developer, from Brazil.</p>
+<p align="left">My name is Carlos and I'm a java developer.</p>
 
 ###
 
