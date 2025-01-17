@@ -1,6 +1,10 @@
-<h2 align="left">Hi 👋! My name is Carlos and I'm a java developer, from Brazil.</h2>
+<h1 align="center">Olá! Eu sou o Carlos.</h1>
 
-###
+<h3 align="center">Não adentre a boa noite apenas com ternura, a velhice queima e clama ao fim do dia.</h3>
+<h3 align="center">Fúria, fúria contra a luz que já não fulgura.</h3>
+<p align="center">- Dylan Thomas</p>
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats-kkcarlinns-projects.vercel.app/api?username=kkcarlinn&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
